@@ -1,3 +1,0 @@
-class DOG 
-  
-end
