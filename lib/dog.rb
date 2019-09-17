@@ -1,3 +1,3 @@
-def class DOG 
+class DOG 
   
 end
