@@ -1,4 +1,3 @@
 def class DOG 
   
-  
 end
